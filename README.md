@@ -1,1 +1,1 @@
-(YouTube Video Documentation)[https://www.youtube.com/watch?v=eD0uBLr-eP8]
+[YouTube Video Documentation](https://www.youtube.com/watch?v=eD0uBLr-eP8)
